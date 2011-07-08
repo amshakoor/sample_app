@@ -1,8 +1,11 @@
 .container {
+  margin: 0 auto;
   width: 710px;
+  text-align: left;
 }
 
 body {
+  text-align: center;
   background: #cff;
 }
 
